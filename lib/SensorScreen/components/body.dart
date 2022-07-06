@@ -63,12 +63,12 @@ class _SensorScreenBodyState extends State<SensorScreenBody> {
                   child: ClipRRect(
                     borderRadius: BorderRadius.circular(20),
                     child: Image.asset(
-                      "assets/images/profile_picture.jpg",
+                      "assets/images/logo.png",
                       fit: BoxFit.cover,
                     ),
                   ),
                 ),
-                SizedBox(width: size.width * 0.05),
+                SizedBox(width: size.width * 0.03),
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
