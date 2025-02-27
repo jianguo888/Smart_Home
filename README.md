@@ -26,6 +26,20 @@
 - DevEco Studio（鸿蒙开发工具）
 - Linux开发工具链
 
+## 效果图
+
+### macos
+
+![image-20250227195145929](https://nutpi-e41b.obs.cn-north-4.myhuaweicloud.com/image-20250227195145929.png)
+
+### 鸿蒙
+
+![image-20250227195159812](https://nutpi-e41b.obs.cn-north-4.myhuaweicloud.com/image-20250227195159812.png)
+
+### web
+
+![image-20250227195418493](/Users/jianguo/Library/Application Support/typora-user-images/image-20250227195418493.png)
+
 ## 安装说明
 
 1. 确保已安装Flutter开发环境
@@ -114,7 +128,9 @@ linux/                # Linux平台相关代码
 本项目由坚果派开发和维护。
 
 - 微信公众号：nutpi
-- 项目主页：[Smart Home](https://github.com/nutpi/Smart_Home)
+- 项目主页：[GitHub](https://github.com/nutpi/Smart_Home)
+- 项目主页：[GitCode](https://gitcode.com/nutpi/smarthome)
+
 
 ## 致谢
 
