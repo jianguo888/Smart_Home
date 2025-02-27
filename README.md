@@ -130,7 +130,7 @@ linux/                # Linux平台相关代码
 - 微信公众号：nutpi
 - 项目主页：[GitHub](https://github.com/nutpi/Smart_Home)
 - 项目主页：[GitCode](https://gitcode.com/nutpi/smarthome)
-
+-哔哩哔哩：[坚果派](https://www.bilibili.com/video/BV1wz9AYpEVy/)
 
 ## 致谢
 
