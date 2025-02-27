@@ -1,3 +1,11 @@
+/*
+ * Copyright (c) 2024 坚果派
+ * 微信公众号：nutpi
+ * 
+ * 该文件是Smart Home项目的一部分。
+ * 未经授权不得拷贝、修改、复制或分发。
+ */
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import '/SensorScreen/sensor_screen.dart';
